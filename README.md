@@ -1,1 +1,1 @@
-next goal: find way to find smaller way of giving change
+next goal: find way to tidy up the output to the way it wanted
